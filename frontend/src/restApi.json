@@ -1,0 +1,181 @@
+{
+  "data": [
+    {
+      "ourQualities": [
+        {
+          "id": 1,
+          "image": "./quality_food.svg",
+          "title": "QUALITY FOOD",
+          "description": "We use only the freshest ingredients to craft meals that not only satisfy your hunger but also delight your taste buds."
+        },
+        {
+          "id": 2,
+          "image": "./super_taste.svg",
+          "title": "SUPER TASTE",
+          "description": "Every bite is packed with authentic flavor, rich spices, and love—bringing the true taste of India to your plate."
+        },
+        {
+          "id": 3,
+          "image": "./fast_delivery.svg",
+          "title": "FAST DELIVERY",
+          "description": "We ensure hot and delicious food reaches your doorstep quickly with our reliable and efficient delivery system."
+        }
+      ],
+      "dishes": [
+        {
+          "id": 1,
+          "image": "./dinner1.jpeg",
+          "title": "ROASTED LAMB RUMP",
+          "category": "Dinner"
+        },
+        {
+          "id": 2,
+          "image": "./dinner2.png",
+          "title": "CITRUS CURED SALMON",
+          "category": "Dinner"
+        },
+        {
+          "id": 3,
+          "image": "./breakfast1.png",
+          "title": "PAN SEARED SEA BASS",
+          "category": "Breakfast"
+        },
+        {
+          "id": 4,
+          "image": "./dinner3.png",
+          "title": "STUFFED STRAWBERRY",
+          "category": "Dinner"
+        },
+        {
+          "id": 5,
+          "image": "./lunch1.png",
+          "title": "BEEF BURGER MEAL",
+          "category": "Lunch"
+        },
+        {
+          "id": 6,
+          "image": "./dinner4.png",
+          "title": "MUSSELS SOUP",
+          "category": "Dinner"
+        },
+        {
+          "id": 7,
+          "image": "./dinner5.png",
+          "title": "ITALIAN SPAGHETTI",
+          "category": "Dinner"
+        },
+        {
+          "id": 8,
+          "image": "./dinner6.png",
+          "title": "GRILLED FISH",
+          "category": "Dinner"
+        }
+      ],
+      "team": [
+        {
+          "id": 1,
+          "image": "./Kunal.jpg",
+          "name": "Kunal Kapur",
+          "designation": "Chef & Restaurateur"
+        },
+        {
+          "id": 2,
+          "image": "./ChefSanjeev.jpg",
+          "name": "Sanjeev Kapoor",
+          "designation": "Celebrity Chef & TV Host"
+        },
+        {
+          "id": 3,
+          "image": "./Vikas-Khanna.jpg",
+          "name": "Vikas Khanna",
+          "designation": "Michelin-Starred Chef & Author"
+        },
+        {
+          "id": 4,
+          "image": "./ranbeer.jpg",
+          "name": "Ranveer Brar",
+          "designation": "Celebrity Chef & Food Stylist"
+        }
+      ],
+      "testimonials": [
+        {
+          "id": 1,
+          "image": "./Shruti.jpg",
+          "description": "The food is absolutely amazing! Every dish is full of flavor and cooked to perfection. Highly recommended.",
+          "rating": 4,
+          "userName": "Shruti Haasan"
+        },
+        {
+          "id": 2,
+          "image": "./kartik.jpg",
+          "description": "From the ambiance to the food and service, everything was top-notch. A perfect place for food lovers!",
+          "rating": 4.5,
+          "userName": "Kartik aaryan"
+        },
+        {
+          "id": 3,
+          "image": "./Rashi.jpg",
+          "description": "Fast delivery, amazing quality, and the taste is just like home. Definitely my go-to restaurant.",
+          "rating": 5,
+          "userName": "Rashi khanna"
+        },
+        {
+          "id": 4,
+          "image": "./Raghav.jpg",
+          "description": "Delicious food, prompt service, and great packaging. My family loved every dish we ordered!",
+          "rating": 4.8,
+          "userName": "Raghav juyal"
+        }
+      ],
+      "who_we_are": [
+        {
+          "id": 1,
+          "number": "14",
+          "title": "Restaurants"
+        },
+        {
+          "id": 2,
+          "number": "20",
+          "title": "Chefs in Our Team"
+        },
+        {
+          "id": 3,
+          "number": "08",
+          "title": "Years of Excellence"
+        },
+        {
+          "id": 4,
+          "number": "200",
+          "title": "Signature Dishes"
+        }
+      ],
+      "navbarLinks": [
+        {
+          "id": 1,
+          "title": "HOME",
+          "link": "heroSection"
+        },
+        {
+          "id": 2,
+          "title": "ABOUT US",
+          "link": "about"
+        },
+        {
+          "id": 3,
+          "title": "SERVICES",
+          "link": "qualities"
+        },
+        {
+          "id": 4,
+          "title": "TEAM",
+          "link": "team"
+        },
+        {
+          "id": 5,
+          "title": "RESERVATION",
+          "link": "reservation"
+        }
+      ]
+    }
+  ]
+}
